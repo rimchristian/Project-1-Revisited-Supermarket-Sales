@@ -13,3 +13,15 @@
   1. Item MRP
   2. Outlet Type Grocery Store
   3. Item Visibility
+
+## Summary plot - with plot_type='bar'in Tree Based Model
+![image](https://github.com/rimchristian/Project-1-Revisited-Supermarket-Sales/assets/74616874/d6183b42-dd6e-47bd-898a-ba67411c24e8)
+1. Item MRP
+2. Outlet Type Grocery Store
+3. Outlet Identifier OUT027
+
+## Summary plot - with plot_type='dot
+![image](https://github.com/rimchristian/Project-1-Revisited-Supermarket-Sales/assets/74616874/7267f3e1-22d4-46c5-8965-25f6bdf218ed)
+1. Item MRP
+2. Outlt Type Grocery Store
+3. Outlet Identifier OUT027
